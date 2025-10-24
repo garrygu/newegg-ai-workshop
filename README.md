@@ -34,7 +34,6 @@ By the end of this workshop, students will:
 | **2** | 2 hours | 🧠 Train a Classifier | Neural networks, model training, PyTorch, CIFAR-10 | `models/classifier.pt` |
 | **3** | 2 hours | 💬 Chatbot & Sentiment | Natural language processing, emotion detection, chatbots | Sentiment-aware chatbot |
 | **4** | 2 hours | 🎮 AI Guessing Game | Game development, AI integration, project completion | Playable AI game + demo |
-| **Demo Day** | 2 hours | 🌟 Showcase & Reflection | Presentation skills, peer feedback, certificates | Team presentations + awards |
 
 ---
 
@@ -42,16 +41,20 @@ By the end of this workshop, students will:
 
 ### **For Students**
 1. **Clone this repository**: `git clone https://github.com/garrygu/newegg-ai-workshop.git`
-2. **Open Jupyter Notebook** (local or Google Colab)
-3. **Start with Session 0**: `Session_0_Setup_and_Orientation.ipynb`
-4. **Follow the sessions in order**: 0 → 1 → 2 → 3 → 4
-5. **Celebrate your AI game** at Demo Day!
+2. **Choose your path**:
+   - **🟢 Coding Path**: Open Jupyter Notebook and start with Session 0
+   - **🟡 Plan B Path**: Use the zero-coding alternatives for each session
+3. **Follow the sessions in order**: 0 → 1 → 2 → 3 → 4
+4. **Celebrate your AI game** at Demo Day!
 
 ### **For Instructors**
 1. **Review instructor materials**: Check `instructor_guides/` folder
-2. **Prepare environment**: Verify GPU access and required libraries
-3. **Test all notebooks**: Ensure smooth execution before class
-4. **Use teaching guides**: Follow `Instructor_Kit.md` for detailed lesson plans
+2. **Choose teaching approach**:
+   - **🟢 Coding Version**: For students with some programming experience
+   - **🟡 Plan B Version**: For students with zero coding experience
+3. **Prepare environment**: Verify GPU access and required libraries (coding version)
+4. **Test all materials**: Ensure smooth execution before class
+5. **Use teaching guides**: Follow `Instructor_Kit.md` for detailed lesson plans
 
 ---
 
@@ -160,6 +163,129 @@ By the end of this workshop, students will:
 
 ---
 
+## 🛟 **Plan B: Zero-Coding Alternatives**
+
+For students with **no coding experience**, we offer simplified alternatives that focus on **AI concepts and creativity** rather than programming:
+
+### 🧰 **Session 0 Plan B: AI Concepts & Tools**
+**Goal**: Understand AI without coding
+
+**What Students Learn**:
+- What AI is through interactive demos
+- How AI works using visual tools and games
+- AI in daily life through real examples
+- Basic computer skills (clicking, typing, saving files)
+
+**Key Activities**:
+- **AI Demo Stations**: Hands-on AI tools (ChatGPT, image generators)
+- **AI Scavenger Hunt**: Find AI in everyday apps
+- **"AI vs Human" Game**: Guess if content was made by AI or humans
+- **AI Ethics Discussion**: What's fair and unfair about AI?
+
+**Deliverable**: AI concept understanding + basic computer skills
+
+---
+
+### 🎨 **Session 1 Plan B: AI Art Creation**
+**Goal**: Create AI art using user-friendly tools
+
+**What Students Learn**:
+- How AI creates images (conceptual understanding)
+- Prompt writing techniques
+- AI art tools and platforms
+- Digital art appreciation
+
+**Key Activities**:
+- **Online AI Art Tools**: Use DALL-E, Midjourney, or Craiyon
+- **Prompt Design Workshop**: Learn to write effective prompts
+- **AI Art Gallery**: Create and display AI-generated artwork
+- **Art Style Exploration**: Try different artistic styles
+
+**Deliverable**: Portfolio of AI-generated artwork
+
+---
+
+### 🧠 **Session 2 Plan B: AI Vision Understanding**
+**Goal**: Understand how AI "sees" without training models
+
+**What Students Learn**:
+- How computers recognize images
+- AI vision in real-world applications
+- Image recognition tools and apps
+- Bias and fairness in AI vision
+
+**Key Activities**:
+- **AI Vision Apps**: Use Google Lens, Apple Visual Lookup
+- **"Can AI See?" Experiments**: Test AI recognition abilities
+- **Image Classification Games**: Sort images by categories
+- **AI Bias Exploration**: Discover when AI makes mistakes
+
+**Deliverable**: Understanding of AI vision capabilities and limitations
+
+---
+
+### 💬 **Session 3 Plan B: AI Conversation Design**
+**Goal**: Design chatbot personalities without coding
+
+**What Students Learn**:
+- How chatbots work conceptually
+- Personality design principles
+- Conversation flow design
+- AI communication ethics
+
+**Key Activities**:
+- **Chatbot Personality Workshop**: Design character traits
+- **Conversation Flow Mapping**: Plan dialogue paths
+- **AI Chat Testing**: Try different chatbots (ChatGPT, Replika)
+- **Ethics Discussion**: Responsible AI communication
+
+**Deliverable**: Chatbot personality design document
+
+---
+
+### 🎮 **Session 4 Plan B: AI Game Design**
+**Goal**: Design AI games without programming
+
+**What Students Learn**:
+- Game design principles
+- AI integration concepts
+- User experience design
+- Creative problem-solving
+
+**Key Activities**:
+- **Game Design Workshop**: Plan AI-powered games
+- **Prototype Creation**: Use no-code tools (Scratch, GameMaker)
+- **AI Game Testing**: Play existing AI games
+- **Presentation Preparation**: Design game concepts
+
+**Deliverable**: AI game design concept + presentation
+
+---
+
+## 🎯 **Plan B Teaching Approach**
+
+### **Key Differences from Coding Version**
+- **Focus on concepts** rather than implementation
+- **Use existing AI tools** instead of building from scratch
+- **Visual and interactive learning** over text-based coding
+- **Collaborative activities** with less individual computer work
+- **Creative expression** as primary learning method
+
+### **Tools for Plan B Sessions**
+- **AI Art**: DALL-E, Midjourney, Craiyon, Stable Diffusion web interfaces
+- **AI Vision**: Google Lens, Apple Visual Lookup, Microsoft Seeing AI
+- **AI Chat**: ChatGPT, Replika, Character.AI, Google Bard
+- **Game Design**: Scratch, GameMaker, Figma, Canva
+- **Presentation**: PowerPoint, Google Slides, Canva
+
+### **Assessment for Plan B**
+- **Conceptual understanding** through discussions and presentations
+- **Creative projects** showcasing AI understanding
+- **Collaborative work** demonstrating teamwork skills
+- **Ethical awareness** through reflection and discussion
+
+---
+
 ## 🛠️ **Technical Requirements**
 
 ### **Software Requirements**
@@ -194,11 +320,6 @@ newegg-ai-workshop/
 │   ├── Session_2_Train_Classifier_Beginner_Final.ipynb
 │   ├── Session_3_Chatbot_Sentiment_Beginner_Final.ipynb
 │   └── Session_4_AI_Guessing_Game_Beginner_Final.ipynb
-├── 👩‍🏫 Instructor Materials
-│   ├── instructor_guides/
-│   │   ├── Instructor_Checklist.md
-│   │   ├── Instructor_Kit.md
-│   │   └── Session-specific guides
 ├── 📖 Documentation
 │   ├── docs/
 │   │   ├── Course_Roadmap.md
@@ -278,16 +399,6 @@ Students create a complete AI-powered guessing game that:
 
 ---
 
-## 🏆 **Success Stories**
-
-> *"This workshop completely changed how I think about AI. I went from being intimidated by technology to building my own AI game!"* - Sarah, 16
-
-> *"The hands-on approach made everything click. I finally understand how AI actually works!"* - Marcus, 17
-
-> *"Creating my own AI images was amazing. I never thought I could be an AI artist!"* - Aisha, 15
-
----
-
 ## 🤝 **Contributing**
 
 We welcome contributions to make this workshop even better!
@@ -309,18 +420,10 @@ We welcome contributions to make this workshop even better!
 
 ---
 
-## 📞 **Support & Community**
-
-### **Getting Help**
-- **📧 Email**: [garrygu@newegg.com](mailto:garrygu@newegg.com)
+## **Getting Help**
+- **📧 Email**: [ai-workshop@newegg.com](mailto:ai-workshop@newegg.com)
 - **🐛 Issues**: [GitHub Issues](https://github.com/garrygu/newegg-ai-workshop/issues)
 - **💬 Discussions**: [GitHub Discussions](https://github.com/garrygu/newegg-ai-workshop/discussions)
-
-### **Community Resources**
-- **📚 Documentation**: Comprehensive guides in `/docs`
-- **🎥 Video Tutorials**: Coming soon!
-- **👥 Instructor Network**: Connect with other educators
-- **🏆 Student Showcase**: Share your AI creations
 
 ---
 
@@ -329,28 +432,6 @@ We welcome contributions to make this workshop even better!
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-## 🙏 **Acknowledgments**
-
-- **Newegg** for supporting AI education initiatives
-- **Hugging Face** for providing open-source AI models
-- **PyTorch Team** for the amazing deep learning framework
-- **Stability AI** for Stable Diffusion image generation
-- **All contributors** who help make this workshop better
-
----
-
-## 🚀 **What's Next?**
-
-After completing this workshop, students are ready to:
-- **🎓 Pursue AI/ML courses** in college
-- **💼 Explore AI careers** in tech companies
-- **🔬 Conduct AI research** projects
-- **🚀 Build advanced AI applications**
-- **🌟 Become AI advocates** in their communities
-
----
-
 **Ready to start your AI journey? Begin with [Session 0: Setup & Orientation](Session_0_Setup_and_Orientation.ipynb)!** 🎉
 
 ---
