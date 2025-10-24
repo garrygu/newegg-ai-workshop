@@ -190,46 +190,18 @@ Students will also develop:
 - ✅ **Confidence** in using advanced technology
 - ✅ **Persistence** in working through complex challenges
 
-### **Career Preparation**
-This workshop prepares students for:
-- ✅ **Computer Science** and **Software Engineering** careers
-- ✅ **Artificial Intelligence** and **Machine Learning** fields
-- ✅ **Data Science** and **Analytics** roles
-- ✅ **Product Design** and **User Experience** careers
-- ✅ **Technology Entrepreneurship** and innovation
-- ✅ **Any career** requiring logical thinking and problem-solving
-
----
-
-## 📊 **Assessment and Progress**
-
-### **How We Measure Success**
-- **Hands-On Projects**: Each session produces tangible results
-- **Code Quality**: Well-structured, documented, and functional code
-- **Creative Expression**: Original and thoughtful use of AI tools
-- **Problem Solving**: Ability to debug and overcome challenges
-- **Collaboration**: Working effectively with classmates
-- **Presentation**: Clear communication of ideas and results
-
-### **What Students Take Home**
-- **Portfolio of AI Projects**: Images, models, chatbots, and games
-- **Python Programming Skills**: Foundation for further learning
-- **AI Understanding**: Conceptual knowledge of how AI works
-- **Confidence**: Belief in their ability to work with technology
-- **Certificate**: Recognition of completion and achievement
-
 ---
 
 ## 🛠️ **Technical Requirements**
 
 ### **What Students Need**
 - **Basic Computer Skills**: Typing, using web browsers, file management
-- **Internet Access**: For downloading AI models and tools
 - **Patience**: Learning programming takes time and practice
 - **Curiosity**: Interest in how technology works
 - **Willingness to Learn**: Openness to new concepts and challenges
 
 ### **What We Provide**
+- **All Equipment**: Computers, internet access, and necessary hardware
 - **All Software**: Python, Jupyter Notebooks, AI libraries
 - **Learning Materials**: Step-by-step guides and explanations
 - **AI Models**: Pre-trained models for immediate use
@@ -238,85 +210,10 @@ This workshop prepares students for:
 
 ---
 
-## 🌟 **Why This Workshop Matters**
-
-### **For Students**
-- **Future-Ready Skills**: AI and programming are essential for tomorrow's careers
-- **Creative Expression**: Technology becomes a tool for artistic creation
-- **Problem-Solving**: Develops logical thinking and persistence
-- **Confidence Building**: Proves that advanced technology is accessible
-- **Career Exploration**: Discover if technology careers are right for you
-
-### **For Parents**
-- **Educational Value**: High-quality STEM education with practical applications
-- **Career Preparation**: Skills that lead to high-demand, well-paying jobs
-- **Character Development**: Builds persistence, creativity, and critical thinking
-- **Future Investment**: Prepares your child for a technology-driven world
-- **Safe Environment**: Supervised learning with experienced instructors
-
-### **For Society**
-- **Digital Literacy**: Creates informed citizens who understand AI
-- **Innovation Pipeline**: Develops the next generation of technologists
-- **Ethical Awareness**: Teaches responsible use of powerful technology
-- **Diversity in Tech**: Makes technology careers accessible to all students
-- **Economic Growth**: Prepares workforce for AI-driven economy
-
----
-
-## 🚀 **What Happens Next**
-
-### **Immediate Next Steps**
-After completing the workshop, students can:
-- **Continue Learning**: Take more advanced programming courses
-- **Build Projects**: Create their own AI applications
-- **Join Communities**: Connect with other young technologists
-- **Explore Careers**: Shadow professionals in tech companies
-- **Apply Skills**: Use AI tools in school projects and hobbies
-
-### **Long-Term Pathways**
-This workshop opens doors to:
-- **Computer Science Degrees**: Strong foundation for college programs
-- **Coding Bootcamps**: Intensive programming training programs
-- **Tech Internships**: Real-world experience in technology companies
-- **Entrepreneurship**: Starting technology companies and products
-- **Research**: Contributing to AI and machine learning research
-
----
-
-## 📞 **Support and Resources**
-
-### **During the Workshop**
-- **Instructor Support**: Experienced teachers available for help
-- **Peer Learning**: Collaborate with classmates on challenges
-- **Online Resources**: Additional tutorials and documentation
-- **Office Hours**: Extra help sessions for struggling students
-- **Community Forum**: Ask questions and share progress
-
-### **After the Workshop**
-- **Alumni Network**: Connect with other workshop graduates
-- **Continued Learning**: Access to advanced courses and materials
-- **Career Guidance**: Mentorship from technology professionals
-- **Project Support**: Help with personal AI projects
-- **Scholarship Opportunities**: Information about tech education funding
-
----
-
-## 🎯 **Success Stories**
-
-> *"This workshop completely changed how I think about AI. I went from being intimidated by technology to building my own AI game!"* - Sarah, 16
-
-> *"The hands-on approach made everything click. I finally understand how AI actually works!"* - Marcus, 17
-
-> *"Creating my own AI images was amazing. I never thought I could be an AI artist!"* - Aisha, 15
-
-> *"The workshop showed me that programming isn't just for 'computer people' - it's creative and fun!"* - David, 14
-
----
-
 ## 📋 **Frequently Asked Questions**
 
 ### **Q: Do students need any programming experience?**
-**A:** No! This workshop is designed for complete beginners. We start with the basics and build up gradually.
+**A:** No programming experience is required! This workshop is designed for complete beginners. However, any basic programming experience will help students progress faster through the material.
 
 ### **Q: What if my child struggles with the technical aspects?**
 **A:** We provide multiple levels of support, including one-on-one help, peer collaboration, and alternative approaches for different learning styles.
@@ -325,7 +222,7 @@ This workshop opens doors to:
 **A:** Most work is completed during class time. Students may want to experiment with their projects at home, but this is optional and encouraged.
 
 ### **Q: What kind of computer do students need?**
-**A:** Any modern computer with internet access will work. We provide access to cloud computing resources for the more intensive AI tasks.
+**A:** No computer needed! This is an onsite class where we provide all computers, internet access, and necessary equipment.
 
 ### **Q: Is this workshop worth the investment?**
 **A:** Absolutely! Students gain valuable skills that typically cost thousands of dollars to learn elsewhere, plus they get hands-on experience with cutting-edge AI technology.
