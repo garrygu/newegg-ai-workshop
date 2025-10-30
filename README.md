@@ -1,115 +1,158 @@
-# 🎓 Newegg AI Foundations Workshop
+# 🎓 Newegg AI Workshop - Multi-Level Program
 
-> **Learn AI by building your own AI Guessing Game!**
-
----
-
-## 🌟 **What You'll Learn**
-
-In this 4-session workshop, high school students (ages 13-18) will:
-
-- 🎨 **Generate AI images** from text descriptions
-- 🧠 **Train computers to recognize images** 
-- 💬 **Build chatbots that understand emotions**
-- 🎮 **Combine everything into an interactive AI game**
-
-**No programming experience required!** We start with the basics and build up gradually.
+> **Empowering the next generation of AI creators through progressive, hands-on learning**
 
 ---
 
-## 📚 **Course Sessions**
+## 🗺️ **Program Overview**
 
-| Session | What You'll Do | What You'll Build |
-|:--:|:--|:--|
-| **0** | Learn Python basics and AI concepts | Your first AI program |
-| **1** | Create images using AI | Portfolio of AI-generated artwork |
-| **2** | Teach computers to "see" | Image recognition AI model |
-| **3** | Build chatbots with personality | Emotion-aware chatbot |
-| **4** | Combine all AI components | Complete AI guessing game |
-
-**Each session is 2 hours long.**
+This repository contains a comprehensive, multi-level AI education program designed for learners of all backgrounds and experience levels. From complete beginners to advanced practitioners, our curriculum progressively builds AI knowledge and skills through engaging, project-based workshops.
 
 ---
 
-## 🚀 **Getting Started**
+## 📚 **Program Levels**
 
-### **For Students**
-1. **Download the notebooks** from this repository
-2. **Start with Session 0**: `Session_0_Setup_and_Orientation.ipynb`
-3. **Follow the sessions in order**: 0 → 1 → 2 → 3 → 4
-4. **Ask questions** and experiment with the code!
+Our program is organized into five progressive levels, each designed to build upon previous knowledge:
 
-### **For Parents**
-- **All equipment provided**: Computers, internet, and software included
-- **Experienced instructors**: Support available throughout the workshop
-- **Hands-on learning**: Students build real AI projects they can show off
-- **Future-ready skills**: Prepares students for technology careers
+| Level | Folder | Target Audience | Description |
+|:--:|:--|:--|:--|
+| **🌱 Explorer** | `lv0-explorer/` | No coding experience | Introduction to AI through creative, no-code tools and activities |
+| **🚀 Beginner** | `lv1-beginner/` | No coding experience | Learn AI fundamentals by building your own AI guessing game with Python |
+| **⚡ Intermediate** | `lv2-intermediate/` | Basic Python knowledge | Deep dive into AI concepts and build more complex AI projects |
+| **🔥 Advanced** | `lv3-advanced/` | Solid programming skills | Advanced AI techniques and model training |
+| **💎 Expert** | `lv4-expert/` | Strong AI/ML background | Research-level projects and cutting-edge AI applications |
 
 ---
 
-## 🎯 **What Students Take Home**
+## 🎯 **Getting Started**
 
-- **Working AI game** they built themselves
-- **Python programming skills** for future projects
-- **Understanding of AI** and how it works
-- **Confidence with technology** and problem-solving
-- **Portfolio of AI projects** for college applications
+### **Choose Your Level**
 
----
+1. **New to AI?** Start with [Explorer Level](lv0-explorer/)
+   - No coding required
+   - Creative and fun activities
+   - Perfect for beginners
 
-## 🛠️ **What You Need**
+2. **Ready to code?** Begin with [Beginner Level](lv1-beginner/)
+   - No programming experience needed
+   - Step-by-step Python tutorials
+   - Build your first AI project
 
-### **Students Need:**
-- Basic computer skills (typing, using web browsers)
-- Curiosity about how technology works
-- Willingness to learn and experiment
+3. **Already coding?** Check your skills:
+   - Know basic Python? → Start at [Beginner Level](lv1-beginner/) to learn AI concepts
+   - Confident with Python? → Try [Intermediate Level](lv2-intermediate/)
+   - Have AI/ML experience? → Jump to [Advanced](lv3-advanced/) or [Expert](lv4-expert/) levels
 
-### **We Provide:**
-- All computers and equipment
-- Internet access and software
-- Step-by-step learning materials
-- Instructor support and help
-
----
-
-## 📋 **Frequently Asked Questions**
-
-**Q: Do students need programming experience?**  
-A: No! This workshop is designed for complete beginners. Any basic programming experience will help, but it's not required.
-
-**Q: What if my child struggles with the technical parts?**  
-A: We provide multiple levels of support, including one-on-one help and alternative approaches for different learning styles.
-
-**Q: What kind of computer do students need?**  
-A: No computer needed! This is an onsite class where we provide all computers, internet access, and necessary equipment.
-
-**Q: How much time outside of class?**  
-A: Most work is completed during class time. Students may want to experiment with their projects at home, but this is optional.
+### **Each Level Contains:**
+- 📖 **README.md** - Overview and getting started guide
+- 📓 **Session Notebooks** - Interactive Jupyter notebooks with lessons
+- 🎯 **Projects** - Hands-on projects to build
+- 📚 **Documentation** - Additional resources and guides (where applicable)
+- 👨‍🏫 **Instructor Materials** - Teaching guides for educators (where applicable)
 
 ---
 
-## 🎮 **Final Project: AI Guessing Game**
+## 🏗️ **Curriculum Structure**
 
-Students create a complete AI-powered guessing game that:
+Each level is designed as a complete workshop series, typically consisting of:
 
-1. **🎨 Generates Images**: Uses AI to create visual clues
-2. **🧠 Recognizes Objects**: Classifies images using trained models  
-3. **💬 Understands Emotions**: Responds to player sentiment
-4. **🎯 Provides Feedback**: Gives hints based on player reactions
-5. **🎮 Creates Engagement**: Combines all AI components into fun gameplay
+- **4-5 sessions** (2 hours each)
+- **Progressive skill building** from basic concepts to advanced applications
+- **Hands-on projects** to reinforce learning
+- **Real-world applications** that students can showcase
+
+---
+
+## 🚀 **Quick Links**
+
+- 🌱 **[Explorer Level](lv0-explorer/README.md)** - Creative AI for younger learners
+- 🚀 **[Beginner Level](lv1-beginner/README.md)** - Your first AI projects with Python
+- ⚡ **[Intermediate Level](lv2-intermediate/README.md)** - Advanced AI concepts
+- 🔥 **[Advanced Level](lv3-advanced/README.md)** - Deep learning and model training
+- 💎 **[Expert Level](lv4-expert/README.md)** - Research and cutting-edge AI
+
+---
+
+## 🎓 **For Students**
+
+- Choose the level that matches your experience
+- Work through sessions in order
+- Don't rush - take time to understand each concept
+- Experiment and have fun!
+- Ask questions and seek help when needed
+
+---
+
+## 👨‍🏫 **For Instructors**
+
+- Each level includes instructor materials and guides
+- Check the `instructor_guides/` folder in relevant levels
+- All sessions are designed for classroom or workshop delivery
+- Adapt timing and depth based on your students' needs
+
+---
+
+## 🛠️ **Requirements**
+
+### **What You Need:**
+- Computer with internet access (or use provided equipment in onsite workshops)
+- Modern web browser (Chrome, Firefox, Safari, or Edge)
+- Enthusiasm to learn! 🎉
+
+### **What We Provide:**
+- Complete curriculum and materials
+- Step-by-step instructions
+- All necessary tools and resources
+- Support documentation
+
+---
+
+## 📋 **Program Philosophy**
+
+1. **Progressive Learning** - Each level builds naturally on previous knowledge
+2. **Hands-On Practice** - Learn by doing, not just reading
+3. **Real Projects** - Build things you can be proud of and showcase
+4. **Inclusive Design** - Materials accessible to diverse learners
+5. **Future-Ready** - Skills that prepare students for technology careers
 
 ---
 
 ## 📞 **Getting Help**
 
-- **📧 Email**: [ai-workshop@newegg.com](mailto:ai-workshop@newegg.com)
+- **📧 Email**: Prepare email contact or support channel
 - **🐛 Issues**: [GitHub Issues](https://github.com/garrygu/newegg-ai-workshop/issues)
 - **💬 Discussions**: [GitHub Discussions](https://github.com/garrygu/newegg-ai-workshop/discussions)
+- **📚 Documentation**: Check individual level README files for specific help
 
 ---
 
-**Ready to start your AI journey? Begin with [Session 0: Setup & Orientation](Session_0_Setup_and_Orientation.ipynb)!** 🎉
+## 🌟 **What Students Gain**
+
+- **Technical Skills** - Python programming, AI/ML concepts, tool proficiency
+- **Problem-Solving** - Critical thinking and analytical skills
+- **Portfolio Projects** - Real projects to showcase to colleges and employers
+- **Confidence** - Ability to work with cutting-edge technology
+- **Future Opportunities** - Preparation for AI/ML careers and higher education
+
+---
+
+## 🗂️ **Repository Structure**
+
+```
+newegg-ai-workshop/
+├── README.md (this file)
+├── lv0-explorer/          # Explorer level materials
+├── lv1-beginner/          # Beginner level materials
+├── lv2-intermediate/      # Intermediate level materials
+├── lv3-advanced/          # Advanced level materials
+└── lv4-expert/            # Expert level materials
+```
+
+---
+
+**Ready to start your AI journey? Pick your level and begin learning! 🎉**
 
 ---
 
 *© 2025 Newegg AI Workshop. Empowering the next generation of AI creators.*
+
