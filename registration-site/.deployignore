@@ -1,0 +1,41 @@
+# Files and folders to exclude from production deployment
+
+# Documentation (not needed in production)
+docs/
+*.md
+!dist/README.md
+
+# Development SQL files
+sql/archive/
+
+# Development tools
+deploy.sh
+.deployignore
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Git files
+.git/
+.gitignore
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Node modules (if any)
+node_modules/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+
+
