@@ -34,42 +34,42 @@ By the end, you'll have created:
 
 ## 📚 **Course Sessions**
 
-### Session 0: Setup & AI Fundamentals 🧰
+### [Session 0: Setup & AI Fundamentals 🧰](Session_0_Setup_and_AI_Fundamentals.ipynb)
 Get your environment ready and understand the AI landscape.
 - Python basics & Jupyter Notebooks
 - What is AI? (Generative, Predictive, Agentic)
 - The 2025 AI ecosystem tour
 - Ethics & responsible AI use
 
-### Session 1: Prompt Engineering & LLMs 🧠 ⭐NEW
+### [Session 1: Prompt Engineering & LLMs 🧠 ⭐NEW](Session_1_Prompt_Engineering_LLMs.ipynb)
 Master the art of talking to AI - the most practical skill today.
 - How Large Language Models work
 - Prompt techniques (zero-shot, few-shot, chain-of-thought)
 - Using AI APIs from Python
 - Build your own AI assistant
 
-### Session 2: AI Image Generation 🎨
+### [Session 2: AI Image Generation 🎨](Session_2_Image_Generation.ipynb)
 Create stunning images with advanced techniques.
 - Stable Diffusion fundamentals
 - Advanced prompting & negative prompts
 - ControlNet for guided generation
 - Inpainting to edit images
 
-### Session 3: Image Classification 🔍
+### [Session 3: Image Classification 🔍](Session_3_Image_Classification.ipynb)
 Teach computers to see and recognize objects.
 - How CNNs work
 - Training on CIFAR-10
 - Transfer learning basics
 - Build a custom classifier
 
-### Session 4: Chatbot, Sentiment & Voice 💬
+### [Session 4: Chatbot, Sentiment & Voice 💬](Session_4_Chatbot_Sentiment_Voice.ipynb)
 Build AI that understands emotions and speaks.
 - Sentiment analysis with Transformers
 - Emotion-aware chatbot responses
 - 🎤 Voice input (Whisper) *(optional)*
 - 🔊 Voice output (TTS) *(optional)*
 
-### Session 5: AI Game + Agents 🎮
+### [Session 5: AI Game + Agents 🎮](Session_5_AI_Game_and_Agents.ipynb)
 Combine everything into an intelligent game.
 - Integration of all AI components
 - Game loop design
@@ -84,6 +84,7 @@ Combine everything into an intelligent game.
 2. **Start with Session 0** to set up your environment
 3. **Follow sessions in order**: 0 → 1 → 2 → 3 → 4 → 5
 4. **Experiment and ask questions!**
+5. 📋 **[Student Resource Guide](docs/Student_Resource_Guide.md)** — tools, accounts & pre-class reading for each session
 
 ### **Prerequisites**
 - Completed **Explorer Level** (lv0) or equivalent
@@ -121,4 +122,4 @@ After completing this curriculum, students can:
 
 ---
 
-*© 2025 Newegg AI Workshop. Empowering the next generation of AI creators.*
+*© 2026 Newegg AI Workshop. Empowering the next generation of AI creators.*
