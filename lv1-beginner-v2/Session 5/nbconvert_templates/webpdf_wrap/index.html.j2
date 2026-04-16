@@ -1,0 +1,42 @@
+{%- extends 'webpdf/index.pdf.j2' -%}
+{# nbconvert loads index.html.j2 first; index.pdf.j2 alone is never used as the root template. #}
+{# Lab uses display:table + overflow:hidden on input — Chromium print clips long lines.
+   Fix: min-width:0 on table-cell, stronger pre-wrap on pygments .highlight pre. #}
+{% block html_head_css %}
+<style type="text/css">
+/* Let the code column shrink to page width (table cells default to min-content). */
+.jp-InputArea {
+  overflow: visible !important;
+}
+.jp-InputArea-editor,
+.jp-CodeMirrorEditor.jp-InputArea-editor {
+  overflow: visible !important;
+  min-width: 0 !important;
+  max-width: 100% !important;
+}
+.jp-CodeCell .cm-editor,
+.jp-CodeCell .cm-scroller,
+.jp-CodeCell .cm-gutters {
+  overflow: visible !important;
+  min-width: 0 !important;
+}
+/* Match lab notebook_css specificity so wrapping wins over user-agent pre { white-space: pre } */
+.cm-editor.cm-s-jupyter .highlight pre,
+.jp-CodeCell .highlight pre,
+.jp-CodeCell pre {
+  white-space: pre-wrap !important;
+  word-break: break-word !important;
+  overflow-wrap: anywhere !important;
+  max-width: 100% !important;
+}
+.jp-RenderedText pre,
+.jp-OutputArea-output pre {
+  white-space: pre-wrap !important;
+  overflow-wrap: anywhere !important;
+}
+.jp-Notebook main {
+  max-width: 100% !important;
+  overflow-x: visible !important;
+}
+</style>
+{% endblock html_head_css %}
