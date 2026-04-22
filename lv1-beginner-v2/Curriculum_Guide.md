@@ -6,7 +6,7 @@
 
 ## 🎯 Workshop Overview
 
-The **Newegg AI Foundations Workshop v2** is a comprehensive 6-session program designed to introduce high school students to artificial intelligence through hands-on coding projects. This enhanced version includes modern AI topics like Large Language Models (LLMs) and prompt engineering.
+The **Newegg AI Foundations Workshop v2** is a comprehensive 7-session program designed to introduce high school students to artificial intelligence through hands-on coding projects. This enhanced version includes modern AI topics like Large Language Models (LLMs) and prompt engineering.
 
 ### Who This Is For
 - **High school students** (ages 13-18)
@@ -33,8 +33,9 @@ By the end, you'll have created:
 | **3** | Image Classification | 2 hrs | Neural networks, training |
 | **4** | Chatbot, Sentiment & Voice | 2 hrs | NLP, optional voice AI |
 | **5** | AI Game + Agents | 2 hrs | Integration, showcase |
+| **6** | The Ultimate AI Game | 2 hrs | ResNet, LLMs, Voice AI, Gradio UI |
 
-**Total: 12 hours of hands-on learning**
+**Total: 14 hours of hands-on learning**
 
 ---
 
